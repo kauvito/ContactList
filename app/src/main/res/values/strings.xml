@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="iv_photograph_content_description">Foto</string>
+    <string name="tv_name_content_description">Nome do contato</string>
+    <string name="tv_phoneNumber_content_description">(00) 0000-0000</string>
+
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+
+    <string name="openDrawer">Abrir</string>
+    <string name="closeDrawer">Fechar</string>
+
+
+</resources>
